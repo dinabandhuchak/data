@@ -1,0 +1,6 @@
+"account_id","message_type","event_count"
+"15841","onclusive.delivery.event.content.matched","221"
+"15841","onclusive.delivery.event.content.optimized","221"
+"51286","onclusive.delivery.event.content.matched","357"
+"51286","onclusive.delivery.event.content.optimized","224"
+"51286","onclusive.delivery.event.content.percolate.matched","389"
